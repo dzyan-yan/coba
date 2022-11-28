@@ -1,0 +1,363 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta name="description" content="" />
+    <meta name="author" content="" />
+    <title>Welcome to GajiHub</title>
+    <!-- Favicon-->
+    <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico" />
+    <!-- Font Awesome icons (free version)-->
+    <script src="https://use.fontawesome.com/releases/v6.1.0/js/all.js" crossorigin="anonymous"></script>
+    <!-- Google fonts-->
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css" />
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700" rel="stylesheet" type="text/css" />
+    <!-- Core theme CSS (includes Bootstrap)-->
+    <link href="css/styles.css" rel="stylesheet" />
+</head>
+
+<body id="page-top">
+    <!-- Navigation-->
+    <nav class="navbar navbar-expand-lg navbar-dark fixed-top bg-info" id="mainNav">
+        <div class="container">
+            <a class="navbar-brand" href="#page-top"><img src="assets/img/logos/logo-gajihub.svg" alt="..." /></a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+                Menu
+                <i class="fas fa-bars ms-1"></i>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarResponsive">
+                <ul class="navbar-nav text-uppercase ms-auto py-4 py-lg-0">
+                    <li class="nav-item"><a class="nav-link" href="#services">Services</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#about">About</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#team">Member</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#contact">Contact Us</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <!-- Masthead-->
+    <header class="masthead">
+        <div class="container">
+            <div class="masthead-heading">Welcome To GajiHub</div>
+            <div class="masthead-subheading">
+                <h3>Sudahi Semua Kerepotan Pengelolaan Payroll dan HR di Bisnis Anda</h3>
+            </div>
+            <div class="mb-5">
+                <h5 class="text-white">Dengan software payroll GajiHub, Anda bisa mengelola proses penggajian dan HR dalam satu software terintegrasi. Hitung gaji, pajak, dan pengelolaan data karyawan jadi lebih praktis. Yuk segera daftar untuk mendapatkan fitur-fitur dari kami.</h5>
+            </div>
+            <a class="btn btn-warning btn-xl text-uppercase text-danger hover-overlay" href="https://gajihub.com/daftar/">SIGN UP FOR FREE <i class="fa-solid fa-right-to-bracket"></i></a>
+        </div>
+    </header>
+
+    <div class="container text-center">
+        <div class="text-center">
+            <div class="row">
+                <div class="col-md-6 mb-5 mt-5">
+                    <h2 class="section-heading mb-5">Semua proses manajemen HR kini dalam satu sistem</h2>
+                    <p class="text-muted text-start">Dengan satu platform untuk data karyawan, HR, dan operasional, semua orang dapat mengakses data secara real time untuk membuat keputusan yang tepat. Anda dapat mengandalkan software payroll dan HR GajiHub untuk menghadirkan teknologi yang mendorong pertumbuhan bisnis dan menjaga keamanan data Anda.</p>
+                </div>
+                <div class="col-md-6 mb-5 mt-5">
+                    <img class="img-fluid" src="assets/img/gajihub-screenshot-payroll.jpg" alt="">
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Services-->
+    <section class="page-section" id="services">
+        <div class="container text-center">
+            <div class="text-center">
+                <h2 class="section-heading mb-5">Bagaimana Software Payroll dan HR GajiHub Membantu Anda?</h2>
+            </div>
+            <div class="row text-center align-content-center">
+                <div class="col-md-4 mb-4">
+                    <img width="150" src="assets/img/services/icon-1.png" alt="">
+
+                    <div class="title mt-3">
+                        <h4 class="my-3">Penghitungan pajak karyawan dan BPJS</h4>
+                    </div>
+
+                    <p class="text-muted">Mulai dari penghitungan PPh 21 dan PPh 26, kini Anda bisa melakukan itu semua dengan praktis di GajiHub. Anda juga dapat menghitung premi BPJS, baik BPJS Ketenagakerjaan maupun BPJS langsung dari sistem GajiHub.</p>
+                </div>
+                <div class="col-md-4 mb-4">
+                    <img width="150" src="assets/img/services/icon-2.png" alt="">
+
+                    <div class="title mt-3">
+                        <h4 class="my-3">Menghitung gaji, THR, dan benefit Lainnya</h4>
+                    </div>
+
+                    <p class="text-muted">Sistem penggajian karyawan di GajiHub fleksibel dan dapat diakses online memudahkan perhitungan gaji karyawan dengan beragam komponen tunjangan, termasuk mengkalkulasi lembur, THR, bonus dan benefit lainnya.</p>
+                </div>
+                <div class="col-md-4 mb-4">
+                    <img width="150" src="assets/img/services/icon-3.png" alt="">
+
+                    <div class="title mt-3">
+                        <h4 class="my-3">Analisis kinerja karyawan</h4>
+                    </div>
+
+                    <p class="text-muted">GajiHub menyediakan fitur yang Anda butuhkan untuk Analisis Kinerja Karyawan secara real-time di satu tempat. Mulai dari Data Kompensasi, Demografi Karyawan, sampai Data Produktivitas bisa Anda peroleh di GajiHub.</p>
+                </div>
+                <div class="col-md-4 mb-4">
+                    <img width="150" src="assets/img/services/icon-4.png" alt="">
+
+                    <div class="title mt-3">
+                        <h4 class="my-3">Pengelolaan cuti dan izin karyawan</h4>
+                    </div>
+
+                    <p class="text-muted">Anda mengelola izin karyawan yang berlaku di perusahaan Anda dengan mudah. Di GajiHub Anda juga fleksibel mengakomodasi periode cuti individu dan periode bersama.</p>
+                </div>
+                <div class="col-md-4 mb-4">
+                    <img width="150" src="assets/img/services/icon-5.png" alt="">
+
+                    <div class="title mt-3">
+                        <h4 class="my-3">Mengelola pola kerja</h4>
+                    </div>
+
+                    <p class="text-muted">Perusahaan Anda menerapkan peraturan jam kerja yang beragam atau memiliki pembagian pola kerja? Dengan GajiHub membuat pengelolaan jam kerja menjadi lebih mudah!</p>
+                </div>
+                <div class="col-md-4 mb-4">
+                    <img width="150" src="assets/img/services/icon-6.png" alt="">
+
+                    <div class="title mt-3">
+                        <h4 class="my-3">Mencatat absensi karyawan</h4>
+                    </div>
+
+                    <p class="text-muted">Informasi dan pencatatan absensi berjalan lebih optimal dengan dengan integrasi langsung ke sistem penggajian perusahan.</p>
+                </div>
+                <div class="col-md-4 mb-4">
+                    <img width="150" src="assets/img/services/icon-7.png" alt="">
+
+                    <div class="title mt-3">
+                        <h4 class="my-3">Kelola data karyawan lebih mudah</h4>
+                    </div>
+
+                    <p class="text-muted">Seluruh data karyawan bisa Anda akses dan kelola dalam satu sistem sehingga memudahkan Anda dalam melakukan manajemen SDM lebih efisien.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- About-->
+    <section class="page-section" id="about">
+        <div class="container">
+            <div class="text-center">
+                <h2 class="section-heading">Tentang GajiHub</h2>
+            </div>
+
+            <div class="row">
+                <div class="col-md-6">
+                    <p class="fs-6 lh-4 text-end text-success">
+                        GajiHub dimulai untuk mengubah dan mempermudah proses pengelolaan HR dan payroll bisnis kecil. Dari yang serba konvensional, menjadi bisnis yang lebih baik, transparan dan mampu bersaing di kancah nasional dan global. Software HR dan payroll online GajiHub membantu merapikan sisi administrasi dan pengeloaan manajemen SDM untuk usaha kecil dan menengah.
+                        <br> <br>
+                        GajiHub telah membantu lebih dari 5.000 pebisnis, dan kami baru memulainya. Kami tak akan berhenti berjuang bersama usaha kecil Indonesia. Saat ini bisnis kecil identik dengan pengelolaan HR yang tidak baik, aturan yang tidak sesuai dengan undang-undang ketenagakerjaan, dan tidak tertib administrasi.
+                        <br> <br>
+                        Hal itu salah satunya disebabkan karena minimnya akses pebisnis UMKM ke teknologi terbaru yang sangat memudahkan. Karena itu GajiHub hadir, mendekatkan pebisnis pada teknologi, dan meng-upgrade bisnis ke level berikutnya.
+                    </p>
+                </div>
+                <div class="col-md-6">
+                    <img class="rounded-3 img-fluid" width="500" src="assets/img/about/about.jpg" />
+                </div>
+            </div>
+
+
+        </div>
+    </section>
+    <!-- Team-->
+    <section class="page-section bg-light" id="team">
+        <div class="container">
+            <div class="text-center">
+                <h2 class="section-heading"> Mereka Yang Sudah Menggunakan Software Payroll GajiHub</h2>
+            </div>
+            <div class="row">
+                <div class="col-lg-4">
+                    <div class="team-member">
+                        <img class="mx-auto rounded-circle" src="assets/img/member/ana.png" alt="..." />
+                        <h4> Ana </h4>
+                        <p class="text-muted">Owner Batiklurik.id</p>
+                        <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Ana Twitter Profile"><i class="fab fa-twitter"></i></a>
+                        <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Ana Facebook Profile"><i class="fab fa-facebook-f"></i></a>
+                        <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Ana LinkedIn Profile"><i class="fab fa-linkedin-in"></i></a>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="team-member">
+                        <img class="mx-auto rounded-circle" src="assets/img/member/adi.png" alt="..." />
+                        <h4>Adi</h4>
+                        <p class="text-muted">Founder Niffly Jewelry</p>
+                        <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Adi Twitter Profile"><i class="fab fa-twitter"></i></a>
+                        <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Adi Facebook Profile"><i class="fab fa-facebook-f"></i></a>
+                        <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Adi LinkedIn Profile"><i class="fab fa-linkedin-in"></i></a>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="team-member">
+                        <img class="mx-auto rounded-circle" src="assets/img/member/ferry.png" alt="..." />
+                        <h4>Ferry</h4>
+                        <p class="text-muted">Co Founder Kerjoo</p>
+                        <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Ferry Twitter Profile"><i class="fab fa-twitter"></i></a>
+                        <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Ferry Facebook Profile"><i class="fab fa-facebook-f"></i></a>
+                        <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Ferry LinkedIn Profile"><i class="fab fa-linkedin-in"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Clients-->
+    <div class="py-5">
+        <div class="container">
+            <div class="text-center mb-3">
+                <h4> Telah Diliput Oleh </h4>
+            </div>
+            <div class="row align-items-center">
+                <div class="col-md-4 col-sm-6 my-3">
+                    <a href="#!"><img class="img-fluid img-brand d-block mx-auto" src="assets/img/tempoco.png" alt="..." aria-label="Tempo" /></a>
+                </div>
+                <div class="col-md-4 col-sm-6 my-3">
+                    <a href="#!"><img class="img-fluid img-brand d-block mx-auto" src="assets/img/itech.png" alt="..." aria-label="Itech" /></a>
+                </div>
+                <div class="col-md-4 col-sm-6 my-3">
+                    <a href="#!"><img class="img-fluid img-brand d-block mx-auto" src="assets/img/investing.png" alt="..." aria-label="Investing" /></a>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <!-- Contact-->
+    <section class="page-section" id="contact">
+        <div class="container">
+            <div class="text-center">
+                <h2 class="section-heading text-uppercase mb-5">Contact Us</h2>
+            </div>
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="mb-2">
+                        <img width="350" src="assets/img/logos/logo-gajihub.svg" alt="">
+                    </div>
+                    <div class="mb-2">
+                        <a class="text-decoration-none text-white opacity-8" href="mailto:hello@gajihub.com"> hello@gajihub.com </a>
+                    </div>
+                    <div class="mb-2">
+                        <a class="text-decoration-none text-white opacity-8" href="https://goo.gl/maps/nhV6K5kEeW5BNAUW6">
+                            PT Kledo Berhati Nyaman <br>
+                            Jl. Kledokan No B10, Catur Tunggal, Depok, <br>
+                            DIY, 55281</a>
+                    </div>
+                    <div class="social-media mt-3 mb-3">
+                        <div class="mt-2">
+                            <a class="text-decoration-none text-white" href="https://www.facebook.com/gajihub"><i class="fa-brands fa-facebook"></i></a>
+                            <a class="text-decoration-none text-white mr-3 mb-3" href="https://twitter.com/gajihub"><i class="fa-brands fa-twitter"></i></a>
+                            <a class="text-decoration-none text-white mr-3 mb-3" href="https://www.instagram.com/gajihub/"><i class="fa-brands fa-instagram"></i></a>
+                            <a class="text-decoration-none text-white mr-3 mb-3" href="https://www.youtube.com/channel/UCIR5sG2AkJSvvo0ala0nx-w"><i class="fa-brands fa-youtube"></i></a>
+                            <a class="text-decoration-none text-white mr-3 mb-3" href="https://www.linkedin.com/company/gajihub/"><i class="fa-brands fa-linkedin-in"></i></a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-8">
+                    <div class="row">
+                        <div class="col-md-4">
+                            <div class="mb-2">
+                                <h3 class="text-uppercase text-info">Tentang Kami</h3>
+                            </div>
+                            <div class="mb-2">
+                                <a class="text-decoration-none text-white mr-3 mb-3" href="">Tentang</a>
+                            </div>
+                            <div class="mb-2">
+                                <a class="text-decoration-none text-white mr-3 mb-3" href="">Tutorials</a>
+                            </div>
+                            <div class="mb-2">
+                                <a class="text-decoration-none text-white mr-3 mb-3" href="">Blog</a>
+                            </div>
+                            <div class="mb-2">
+                                <a class="text-decoration-none text-white mr-3 mb-3" href="">Karir</a>
+                            </div>
+                            <div class="mb-2">
+                                <a class="text-decoration-none text-white mr-3 mb-3" href="">Keamanan</a>
+                            </div>
+                            <div class="mb-2">
+                                <a class="text-decoration-none text-white mr-3 mb-3" href="">Jadwalkan Demo</a>
+                            </div>
+                            <div class="mb-2">
+                                <a class="text-decoration-none text-white mr-3 mb-3" href="">Login</a>
+                            </div>
+                            <div class="mb-2">
+                                <a class="text-decoration-none text-white mr-3 mb-3" href="">Download Proposal</a>
+                            </div>
+
+                        </div>
+                        <div class="col-md-4">
+                            <div class="mb-2">
+                                <h3 class="text-info text-uppercase">Layanan</h3>
+                            </div>
+                            <div class="mb-2">
+                                <a class="text-decoration-none text-white mr-3 mb-3" href="">Penggajian & THR</a>
+                            </div>
+                            <div class="mb-2">
+                                <a class="text-decoration-none text-white mr-3 mb-3" href="">Kelola PPh 21</a>
+                            </div>
+                            <div class="mb-2">
+                                <a class="text-decoration-none text-white mr-3 mb-3" href="">Kelola BPJS</a>
+                            </div>
+                            <div class="mb-2">
+                                <a class="text-decoration-none text-white mr-3 mb-3" href="">Akuntansi</a>
+                            </div>
+                            <div class="mb-2">
+                                <a class="text-decoration-none text-white mr-3 mb-3" href="">Analisis Data</a>
+                            </div>
+                            <div class="mb-2">
+                                <a class="text-decoration-none text-white mr-3 mb-3" href="">Kelola Cuti & Izin</a>
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="mb-2">
+                                <h3 class="text-info text-uppercase">Tools Bisnis</h3>
+                            </div>
+                            <div class="mb-2">
+                                <a class="text-decoration-none text-white mr-3 mb-3" href="">Kalkulator PPh 21</a>
+                            </div>
+                            <div class="mb-2">
+                                <a class="text-decoration-none text-white mr-3 mb-3" href="">Template Slip Gaji</a>
+                            </div>
+                            <div class="mb-2">
+                                <a class="text-decoration-none text-white mr-3 mb-3" href="">Coming Soon</a>
+                            </div>
+
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+    </section>
+    <!-- Footer-->
+    <footer class="footer py-4">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-8 text-lg-center"> 2022 Copyright &copy; PT Kledo Berhati Nyaman.</div>
+
+                <div class="col-lg-4 text-lg-end">
+                    <a class="link-dark text-decoration-none me-3" href="#!">Privacy Policy</a>
+                    <a class="link-dark text-decoration-none" href="#!">Terms of Use</a>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Scroll to Top Button-->
+    <a class="scroll-to-top rounded" href="#page-top">
+        <i class="fas fa-angle-up"></i>
+    </a>
+
+    <!-- Bootstrap core JS-->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+    <!-- Core theme JS-->
+    <script src="js/scripts.js"></script>
+    <!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *-->
+    <!-- * *                               SB Forms JS                               * *-->
+    <!-- * * Activate your form at https://startbootstrap.com/solution/contact-forms * *-->
+    <!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *-->
+    <script src="https://cdn.startbootstrap.com/sb-forms-latest.js"></script>
+</body>
+
+</html>
